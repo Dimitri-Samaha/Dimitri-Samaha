@@ -1,6 +1,8 @@
 # Hi, I'm Dimitri
 
-Most of the repositories on this profile are programming projects I wrote in high school. I'm keeping them public as an archive of how I learned to code, so please read them in that spirit rather than as current work.
+Most of the repositories on this profile are programming projects I wrote in high school, all from 2023 and before. I'm keeping them public as an archive of how I learned to code, so please read them in that spirit rather than as current work.
+
+This account is not the one these projects were originally published under; I lost access to my old account, so everything has been moved here.
 
 The collection is a mix of personal projects I built for fun, academic work done for school, and a few things I never finished. Some repositories blend more than one of those at once.
 
