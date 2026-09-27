@@ -6,6 +6,11 @@ This account is not the one these projects were originally published under; I lo
 
 The collection is a mix of personal projects I built for fun, academic work done for school, and a few things I never finished. Some repositories blend more than one of those at once.
 
+## Internship
+During terminale (the final year of French high school), I interned at Siren Analytics. There I developed and optimized Angular components for FENIX, a project delivered for a Lebanese public administration, which improved the application's performance and user experience. I also researched reusable components meant to be shared across multiple internal projects.
+
+A recommendation letter from this internship is available if needed; feel free to reach out.
+
 ## Personal projects
 These were built on my own time, out of curiosity rather than an assignment.
 - `pygame-chess`: a chess game with an AI opponent powered by Stockfish.
